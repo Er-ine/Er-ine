@@ -89,22 +89,9 @@ Currently exploring, learning, and building. 🚀
 [💼 LinkedIn](https://www.linkedin.com/in/erine-anna-binu-9a436531b/) • [💻 GitHub](https://github.com/Er-ine)
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Er-ine&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-ine&layout=compact&langs_count=8&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
