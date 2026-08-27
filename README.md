@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Erine Anna Binu</h1>
 
-<!--
-**Er-ine/Er-ine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Science Student • Builder • Problem Solver</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build technology around problems worth solving.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+I'm a Computer Science student passionate about turning ideas into **useful digital experiences**.
+
+I enjoy building projects across **web development, data-driven systems, and emerging technologies**, with a particular interest in creating solutions that address real-world problems.
+
+Currently exploring, learning, and building. 🚀
+
+* 💻 Building projects that solve real problems
+* 🌱 Exploring **Full-Stack Development, AI/ML & Human-Computer Interaction**
+* 💡 Interested in **technology, innovation & product building**
+* 🤝 Open to collaborating on meaningful projects
+* ⚡ Turning ideas into reality, one project at a time
+
+---
+
+## 🧠 Skills & Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+</p>
+
+### ⚙️ Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,nextjs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 📊 Data & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+🧠 **Attention Arc** — Exploring technology-driven approaches to attention and productivity.
+
+🏥 **Medinova Connect** — A healthcare-focused platform designed around better access and connectivity.
+
+✈️ **Naviero** — A flight ticket management system.
+
+📊 **Alumni Tracking Dashboard** — A data-driven dashboard for managing and visualizing alumni information.
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/erine-anna-binu-9a436531b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Er-ine">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+[💼 LinkedIn](https://www.linkedin.com/in/erine-anna-binu-9a436531b/) • [💻 GitHub](https://github.com/Er-ine)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Er-ine&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-ine&layout=compact&langs_count=8&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
