@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋 I'm Erine Anna Binu</h1>
+<h1 align="center">Hi 👋, I'm Erine Anna Binu</h1>
+
+<h3 align="center">
+  Computer Science Student • Builder • Problem Solver
+</h3>
 
 <p align="center">
-  <b>Computer Science Student • Builder • Problem Solver</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+technology+around+problems+worth+solving.;Exploring+Full-Stack+Development%2C+AI%2FML+%26+HCI.;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I build technology around problems worth solving.
+  I turn ideas into useful digital experiences.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erine-anna-binu-9a436531b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Er-ine">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
 
 ---
 
